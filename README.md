@@ -1,4 +1,6 @@
-[store link to games that have both linux and VR support](http://store.steampowered.com/search/?vrsupport=101&os=linux)
+# Steam Games Status
+
+From tests of [these games on Steam](https://store.steampowered.com/search/?vrsupport=101&os=linux) to find whether they actually support SteamVR on Linux.
 
 ### Confirmed Working
 
@@ -35,7 +37,7 @@
 *  [High Fidelity](http://store.steampowered.com/app/390540/) ([Github](https://github.com/highfidelity/hifi/issues/10098))
 *  [Till Dawn](http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html)
 
-[Pretty much all the croteam products:](https://steamcommunity.com/games/465240/announcements/detail/572357653491411477)
+[Pretty much all the Croteam products:](https://steamcommunity.com/games/465240/announcements/detail/572357653491411477)
 
 *  Serious Sam 4
 
@@ -50,5 +52,9 @@
 * [Raw Data](https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004)
 * [Subnautica](http://steamcommunity.com/app/264710/discussions/0/490123938436996887/)
 * [Legend of Luca](http://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383)
+
+----
  
-[Initial list compiled by Teq on the SteamVR forum.](https://steamcommunity.com/app/250820/discussions/5/133257959064016658/)
+### Acknowledgements
+ 
+* [Forum thread where Teq first compiled the list](https://steamcommunity.com/app/250820/discussions/5/133257959064016658/)

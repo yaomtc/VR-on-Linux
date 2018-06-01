@@ -1,6 +1,6 @@
 # VR Games Status
 
-Objective: Investigate [these games on Steam](https://store.steampowered.com/search/?vrsupport=101&os=linux) to find whether they actually support SteamVR on Linux.
+Objective: Investigate games such as [these on Steam](https://store.steampowered.com/search/?vrsupport=101&os=linux) to find whether they actually support SteamVR on Linux.
 
 ### Confirmed Working
 
@@ -41,7 +41,7 @@ Objective: Investigate [these games on Steam](https://store.steampowered.com/sea
 
 *  Serious Sam 4
 
-### Not currently planned
+### Not Currently Planned
 
 *  [Tilt Brush](http://store.steampowered.com/app/327140/) ([will "look into it"](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha))
 *  [Job Simulator](http://store.steampowered.com/app/448280) (["no announcement"](https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598))
@@ -52,6 +52,19 @@ Objective: Investigate [these games on Steam](https://store.steampowered.com/sea
 * [Raw Data](https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004)
 * [Subnautica](http://steamcommunity.com/app/264710/discussions/0/490123938436996887/)
 * [Legend of Luca](http://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383)
+
+----
+
+# VR Hardware Status
+
+### Confirmed Working
+
+* HTC Vive - [SteamVR for Linux Github](https://github.com/ValveSoftware/SteamVR-for-Linux) (development release)) 
+* Oculus Rift development kits (DK1, DK2) - [ArchWiki](https://wiki.archlinux.org/index.php/Oculus_Rift)
+
+### Not Currently Planned
+
+* Oculus Rift - should gain unofficial support from [OpenHMD](http://www.openhmd.net/) in the future
 
 ----
  

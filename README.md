@@ -1,6 +1,6 @@
-# Steam Games Status
+# VR Games Status
 
-From tests of [these games on Steam](https://store.steampowered.com/search/?vrsupport=101&os=linux) to find whether they actually support SteamVR on Linux.
+Objective: Investigate [these games on Steam](https://store.steampowered.com/search/?vrsupport=101&os=linux) to find whether they actually support SteamVR on Linux.
 
 ### Confirmed Working
 
